@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<contributor name="org.eclipse.pde.ui"/>
+<contributor name="com.genuitec.myeclipse.product85"/>
+<contributor name="com.genuitec.eclipse.reporting.branding"/>
+<contributor name="org.eclipse.ui.intro"/>
+<contributor name="com.genuitec.eclipse.dehory"/>
+<contributor name="org.eclipse.ui.intro.universal"/>
+<contributor name="org.eclipse.platform"/>
+<contributor name="org.eclipse.pde"/>
+<contributor name="org.eclipse.jdt"/>
+</root>
